@@ -6,8 +6,6 @@ npm-debug.log
 # TypeScript
 # *.js
 # *.map
-*.ts
-!*.d.ts
 
 *.ngsummary.json
 
