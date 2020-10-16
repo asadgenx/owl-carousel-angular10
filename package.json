@@ -1,10 +1,4 @@
 {
-  "_args": [
-    [
-      "ngx-owl-carousel@2.0.7",
-      "D:\\projects\\pal-working-directories\\pal-dev\\frontend"
-    ]
-  ],
   "_from": "ngx-owl-carousel@2.0.7",
   "_id": "ngx-owl-carousel@2.0.7",
   "_inBundle": false,
@@ -26,11 +20,6 @@
   ],
   "_resolved": "https://registry.npmjs.org/ngx-owl-carousel/-/ngx-owl-carousel-2.0.7.tgz",
   "_spec": "2.0.7",
-  "_where": "D:\\projects\\pal-working-directories\\pal-dev\\frontend",
-  "author": {
-    "name": "Mujtaba Hussain",
-    "email": "md.mujtaba@hotmail.com"
-  },
   "bugs": {
     "url": "https://github.com/mujtaba01/ngx-owl-carousel/issues"
   },
